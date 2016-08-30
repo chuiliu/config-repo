@@ -10,6 +10,11 @@
 # http://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
 # ===================================================================
 
+testData:
+    user:
+        id: git远程仓库下配置文件中的id值 
+        name: git远程仓库下配置文件中的name值
+
 eureka:
     instance:
         prefer-ip-address: true
