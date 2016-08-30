@@ -11,8 +11,9 @@
 # ===================================================================
 
 testData:
-    name: gti远程仓库下配置文件中的name值
-    remark: gti远程仓库下配置文件中的remark值
+    user:
+        id: gti远程仓库下配置文件中的id值 
+        name: gti远程仓库下配置文件中的name值
 
 eureka:
     instance:
