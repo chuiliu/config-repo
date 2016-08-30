@@ -10,6 +10,10 @@
 # http://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
 # ===================================================================
 
+testData:
+    name: users微服务项目下配置文件中的name值
+    remark: users微服务项目下配置文件中的remark值
+
 eureka:
     instance:
         prefer-ip-address: true
