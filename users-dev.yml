@@ -12,8 +12,8 @@
 
 testData:
     user:
-        id: gti远程仓库下配置文件中的id值 
-        name: gti远程仓库下配置文件中的name值
+        id: git远程仓库下配置文件中的id值 
+        name: git远程仓库下配置文件中的name值
 
 eureka:
     instance:
