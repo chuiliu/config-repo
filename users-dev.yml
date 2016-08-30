@@ -11,8 +11,8 @@
 # ===================================================================
 
 testData:
-    name: users微服务项目下配置文件中的name值
-    remark: users微服务项目下配置文件中的remark值
+    name: gti远程仓库下配置文件中的name值
+    remark: gti远程仓库下配置文件中的remark值
 
 eureka:
     instance:
